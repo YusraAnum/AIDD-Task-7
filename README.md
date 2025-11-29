@@ -10,7 +10,7 @@ What is SPECKit Plus? – Write a short note Students must download SPECKit and 
 Short Note on SPECKit Plus
 SPECKit Plus is a structured learning and project-management framework designed to help students think clearly, organize information, and complete tasks step-by-step. It breaks a project or idea into simple stages so learners can understand a problem, prepare a solution, and execute it effectively. The 5 core concepts—Constitution, Specify, Plan, Tasks, and Implement—guide students from understanding what needs to be done to completing the final product.
 
-:  /constitution
+  /constitution
 
 The Constitution stage defines the foundation of the project. It explains the purpose, goals, and overall scope. At this stage, students identify what the project is about, why it matters, and what outcomes are expected. It sets a clear direction before any work begins.
 
